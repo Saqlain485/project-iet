@@ -2,3 +2,4 @@ we learning git.
 deal with git and github.
 git is imprtant concept.
 this is hr branch.
+merging same line.
